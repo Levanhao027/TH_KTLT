@@ -2,7 +2,7 @@ def count_letters_and_digits(input_str):
     letter_count = 0
     digit_count = 0
     
-    for char in input_str:
+    for char in sentence:
         if char.isalpha():
           # Kiểm tra xem ký tự có phải là chữ cái không
             letter_count += 1
