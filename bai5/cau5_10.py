@@ -1,5 +1,4 @@
-lưu ý lưu file với tên main.py
-# main.py
+ # main.py
 
 from bubble_sort import bubbleSort
 
