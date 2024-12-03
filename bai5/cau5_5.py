@@ -1,4 +1,4 @@
- lưu ý lưu vơi tên main.py
+ 
 # main.py
 from mymodule import sort_list, find_maximum, find_minimum
 # Nhập số lượng phần tử trong danh sách
