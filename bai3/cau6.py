@@ -1,3 +1,5 @@
+print("Le Van Hao")
+print("235752021610027")
 def get_sum(*num):
     tmp = 0
     for i in num:
